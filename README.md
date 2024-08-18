@@ -1,3 +1,3 @@
-importvisualizegaze.R --> direct data import & visualization
-missinggazeretrieval.R --> missing data retrieval + data import & visualization
+importvisualizegaze.R --> direct data import & visualization<br>
+missinggazeretrieval.R --> missing data retrieval + data import & visualization<br>
 All scripts include data cleaning and organization.
