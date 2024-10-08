@@ -1,6 +1,6 @@
 Scripts to import, clean, organize, and visualize eyetracking data from TobiiProUnitySDK in the Virtual Storytelling experiment programs.<br><br>
 
-![For Github](https://github.com/user-attachments/assets/00ff256f-28e0-4f88-a728-99a466581170) <br><br>
+![For Github](https://github.com/user-attachments/assets/caf3b40c-73df-479a-bacb-102b4abaf073) <br><br>
 
 <b>importvisualizegaze.R:</b><br>
 This script is to directly import, clean, and visualize data.<br><br>
